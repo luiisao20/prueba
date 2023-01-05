@@ -54,6 +54,9 @@ const getBlogContent = async () => {
 
 getBlogContent();
 
+const affiliateRedirect = () => {
+  // resolver el bug
+}
 // text commit
 
 // cambio 1
