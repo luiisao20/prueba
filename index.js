@@ -54,8 +54,15 @@ const getBlogContent = async () => {
 
 getBlogContent();
 
+const affiliateRedirect = () => {
+  // resolver el bug
+}
 // text commit
 
 // cambio 1
 // cambio 2
 // cambio 3
+
+// Agregando videos: video 1
+// Video 2
+// Video 3
